@@ -119,7 +119,7 @@ struct CheckpointData {
 __attribute__((unused))
 #endif
 
-// You may add here other checkpoints using the following format:
+// You may add here other checkpoints using the following format: 
 // {<block height>, "<block hash>"},
 const std::initializer_list<CheckpointData> CHECKPOINTS = {
   //{ 10000, "84b6345731e2702cdaadc6ce5e5238c4ca5ecf48e3447136b2ed829b8a95f3ad" },
